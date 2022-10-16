@@ -10,6 +10,9 @@
 2. Discussion repository for queries
 3. Commpunity to support and encourage coding
 
+> **Note:**
+>
+> **Repository are made public or private by the owner based on their preferances to show to public or just the students of GECJ**
 
 ### How to Join ?
 1. Go to Join Organisation Repository
@@ -18,7 +21,6 @@
 4. An invite will be sent to you
 5. Accept the invite and Welcome to organization.
 
-**Repository are made public or private by the owner based on their preferances to show to public or just the students of GECJ**
 
 <div align="center">
   <h3> Thanks for visiting!! </h3>
