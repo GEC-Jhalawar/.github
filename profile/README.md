@@ -2,7 +2,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/61931454/196044381-88cc170d-bb84-4a7d-899a-11e4dee0ef32.gif" />
 </div>
 
-## Hi there 👋
+
 #### This is an organisation for the students of GECJ to access all of the resources at one place.
 
 ### It Includes : 
