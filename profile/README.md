@@ -15,9 +15,7 @@
 > **Repository are made public or private by the owner based on their preferances to show to public or just the students of GECJ**
 
 ### How to Join ?
-1. Go to Join Organisation Repository
-2. In StudentList.json file add your details
-3. Add your details in README.md file
+1. Raise an Issue [here](https://github.com/GEC-Jhalawar/Support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GECJ+GitHub+Community) 
 4. An invite will be sent to you
 5. Accept the invite and Welcome to organization.
 
